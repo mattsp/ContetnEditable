@@ -1,2 +1,0 @@
-# ContetnEditable
-Created with CodeSandbox
